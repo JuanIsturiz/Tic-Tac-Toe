@@ -1,0 +1,12 @@
+table,
+th,
+td {
+  font-size: 1.5rem;
+  border: #212D40 .25rem solid;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 1rem;
+}

@@ -1,0 +1,19 @@
+.Cell {
+  cursor: pointer;
+  font-size: 4rem;
+  display: grid;
+  place-items: center;
+  height: 6rem;
+  border: 5px solid #2C374B;
+  color: #212D40;
+}
+
+.Cell:active i {
+  transform: scale(1.2);
+}
+
+@media only screen and (max-width: 500px) {
+  .Cell {
+    height: 9rem;
+  }
+}

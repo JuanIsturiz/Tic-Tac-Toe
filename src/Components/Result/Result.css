@@ -1,0 +1,12 @@
+.Result h1,
+.Result i {
+  font-size: 3rem;
+}
+
+.Result {
+  align-self: start;
+}
+
+.Result h1 {
+  font-weight: 500;
+}

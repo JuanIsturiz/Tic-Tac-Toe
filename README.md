@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Tic Tac Toe
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hello again!! Wellcome to my personal _Tic Tac Toe_ prototype, I wanted to test my knowledge in TypeScript by making a simple game were people can play with their friends or alone with the computer.
+
+---
+
+Thank you for joining me in my coding journey!!
 
 ## Available Scripts
 

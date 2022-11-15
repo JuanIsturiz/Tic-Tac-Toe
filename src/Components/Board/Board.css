@@ -1,0 +1,17 @@
+.Board {
+  border: 5px solid #2C374B;
+  width: 20rem;
+  display: grid;
+  grid: repeat(3, 1fr) /repeat(3, 1fr);
+  justify-self: end;
+  margin: 0 1rem;
+}
+
+
+
+@media only screen and (max-width: 500px) {
+  .Board {
+    width: 28rem;
+    justify-self: center;
+  }
+}

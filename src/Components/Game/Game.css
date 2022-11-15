@@ -1,0 +1,32 @@
+.Game {
+  align-items: center;
+  display: grid;
+  grid: 1fr / 1fr 1fr;
+  gap: 2rem;
+  justify-items: center;
+  margin-bottom: 1rem;
+}
+
+.Game h2 {
+  font-size: 2.5rem;
+}
+
+.right-column {
+  display: grid;
+  grid: 2fr 1fr / 1fr;
+  gap: 1rem;
+  place-items: center;
+  justify-self: start;
+}
+
+@media only screen and (max-width: 500px) {
+  .Game {
+    grid: 1fr .5fr / 1fr;
+    gap: 1rem;
+    margin-bottom: 0;
+  }
+
+  .right-column {
+    justify-self: center;
+  }
+}
