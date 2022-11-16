@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-Hello again!! Wellcome to my personal _Tic Tac Toe_ prototype, I wanted to test my knowledge in TypeScript by making a simple game were people can play with their friends or alone with the computer.
+Hello again!! Welcome to my personal _Tic Tac Toe_ prototype, I wanted to test my knowledge in TypeScript by making a simple game were people can play with their friends or alone with the computer.
 
 ---
 
